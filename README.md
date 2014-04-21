@@ -6,10 +6,12 @@ My lazy as3 image tools.
 ### Settings
 #### FLASH IDE
 Advanced ActionScript 3.0 Settings
+
 ![IDE](https://raw.githubusercontent.com/wwwins/as3-image-tools/master/screenshots/pic_000.png)
 
 #### FlashDevelop
 `Project -> Properties -> Compiler Options -> Compiler Constants`
+
 ![Flashdevelop](https://raw.githubusercontent.com/wwwins/as3-image-tools/master/screenshots/pic_001.png)
 
 ### How to use
